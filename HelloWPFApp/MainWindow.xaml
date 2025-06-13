@@ -1,0 +1,14 @@
+﻿<Window x:Class="HelloWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWPFApp"
+        mc:Ignorable="d"
+        Title="20.456-Nguyễn Xuân Tân" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Margin="0,0,-381,-215" Foreground="#FFE72A2A">
+            Title: CHương Trình Quản Lí Bán Hàng
+        </Label>
+    </Grid>
+</Window>

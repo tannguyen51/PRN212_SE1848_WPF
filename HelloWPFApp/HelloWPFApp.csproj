@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="sunset-beach-blue-sky-clouds-scenery-4k-wallpaper-uhdpaper.com-652%402%40b.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="sunset-beach-blue-sky-clouds-scenery-4k-wallpaper-uhdpaper.com-652@2@b.jpg" />
+  </ItemGroup>
+
+</Project>
